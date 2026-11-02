@@ -1,0 +1,9 @@
+{
+  "name": "opencode-e2e-probe",
+  "version": "1.0.0",
+  "description": "OpenCode plugin for fluence-e2e-test: proves a plugin, its env and its secret env reach a cloud agent.",
+  "type": "module",
+  "main": "index.js",
+  "files": ["index.js"],
+  "license": "MIT"
+}
